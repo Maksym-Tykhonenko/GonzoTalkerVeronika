@@ -19,8 +19,8 @@ const GonzoTalkerProdScr = ({navigation, route}) => {
     route.params?.timeStampUserId,
   );
 
-  const INITIAL_URL = `https://transcendent-stately-overjoyed.space/`;
-  const URL_IDENTIFAIRE = `2iqsrjEb`;
+  const INITIAL_URL = `https://exquisite-towering-fulfillment.space/`;
+  const URL_IDENTIFAIRE = `rNq1n2jG`;
 
   const refWebview = useRef(null);
 
